@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.gitignore
+.travis.yml
+jest.config.js
+tsconfig.json
+*.tgz
